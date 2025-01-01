@@ -12,5 +12,9 @@ public class Main {
         cll.display();
         System.out.println(cll.deleteFirst());
         cll.display();
+        System.out.println(cll.deleteLast());
+        cll.display();
+        System.out.println(cll.delete(2));
+        cll.display();
     }
 }
